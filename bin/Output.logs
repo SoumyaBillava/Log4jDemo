@@ -1,0 +1,6 @@
+2017-10-18 12:41:12 INFO  devpinoyLogger:18 - opened firefox browser
+2017-10-18 12:41:12 INFO  devpinoyLogger:22 - maximized the window
+2017-10-18 12:41:15 INFO  devpinoyLogger:28 - opened gmail in the  browser
+2017-10-18 12:41:16 INFO  devpinoyLogger:40 - entered username
+2017-10-18 12:41:18 INFO  devpinoyLogger:46 - entered password
+2017-10-18 12:41:18 WARN  devpinoyLogger:48 - exiting method login
